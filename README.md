@@ -1,2 +1,2 @@
 # mystore
-sell product
+sell product for online
